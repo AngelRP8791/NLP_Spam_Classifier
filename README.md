@@ -44,5 +44,5 @@ Se aplicó "CountVectorizer" para transformar texto en vectores numéricos (Bag 
 - Crear AP con FastAPI para despliegue
 
 ## Autor
-Proyecto desarrollado por Angel Reséndiz Plata
+Proyecto desarrollado por Angel Reséndiz Plata<br>
     LinkedIn: [www.linkedin.com/in/angel-resendiz-plata](www.linkedin.com/in/angel-resendiz-plata)
