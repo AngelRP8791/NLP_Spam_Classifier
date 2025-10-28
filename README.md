@@ -38,11 +38,6 @@ Se aplicó "CountVectorizer" para transformar texto en vectores numéricos (Bag 
 - El proyecto puede ampliarse con TF-IDF o embeddings.
 - ideal para integración en pipelines de seguridad web.
 
-## Próximos pasos
-- Implementar "TF-IDF" y "n-grams"
-- Probar embeddings con "word2vec"
-- Crear AP con FastAPI para despliegue
-
 ## Autor
 Proyecto desarrollado por Angel Reséndiz Plata<br>
     LinkedIn: [www.linkedin.com/in/angel-resendiz-plata](www.linkedin.com/in/angel-resendiz-plata)
